@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 675'>
+    <defs><linearGradient id='g' x1='0' x2='1'>
+      <stop offset='0' stop-color='#e9d5ff'/><stop offset='1' stop-color='#c084fc'/>
+    </linearGradient></defs>
+    <rect width='1200' height='675' fill='url(#g)'/>
+    <g transform='translate(80,80)'>
+      <rect width='1040' height='515' rx='24' fill='rgba(255,255,255,0.85)'/>
+      <text x='520' y='590' text-anchor='middle' font-family='Inter, system-ui' font-size='28' fill='#111' font-weight='700'>Open sources → your saved posts</text>
+    </g>
+    </svg>
